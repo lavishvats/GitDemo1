@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50" started-at="2021-03-07T13:20:17 EST" finished-at="2021-03-07T13:20:17 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50" started-at="2021-03-07T13:20:17 EST" finished-at="2021-03-07T13:20:17 EST">
+      <class name="grpQAclickAcademy.MavenJava.ClsSeleniumTest">
+        <test-method status="PASS" signature="fxSeleniumWeb1()[pri:0, instance:grpQAclickAcademy.MavenJava.ClsSeleniumTest@64bf3bbf]" name="fxSeleniumWeb1" duration-ms="1" started-at="2021-03-07T13:20:17 EST" finished-at="2021-03-07T13:20:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fxSeleniumWeb1 -->
+        <test-method status="PASS" signature="fxSeleniumWeb2()[pri:0, instance:grpQAclickAcademy.MavenJava.ClsSeleniumTest@64bf3bbf]" name="fxSeleniumWeb2" duration-ms="0" started-at="2021-03-07T13:20:17 EST" finished-at="2021-03-07T13:20:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fxSeleniumWeb2 -->
+      </class> <!-- grpQAclickAcademy.MavenJava.ClsSeleniumTest -->
+      <class name="grpQAclickAcademy.MavenJava.ClsRESTAPITest">
+        <test-method status="PASS" signature="fxRESTAPI_1()[pri:0, instance:grpQAclickAcademy.MavenJava.ClsRESTAPITest@4b952a2d]" name="fxRESTAPI_1" duration-ms="4" started-at="2021-03-07T13:20:17 EST" finished-at="2021-03-07T13:20:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fxRESTAPI_1 -->
+        <test-method status="PASS" signature="fxRESTAPI_2()[pri:0, instance:grpQAclickAcademy.MavenJava.ClsRESTAPITest@4b952a2d]" name="fxRESTAPI_2" duration-ms="0" started-at="2021-03-07T13:20:17 EST" finished-at="2021-03-07T13:20:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fxRESTAPI_2 -->
+      </class> <!-- grpQAclickAcademy.MavenJava.ClsRESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

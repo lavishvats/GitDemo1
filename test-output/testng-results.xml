@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75" started-at="2021-03-07T12:44:52 EST" finished-at="2021-03-07T12:44:52 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75" started-at="2021-03-07T12:44:52 EST" finished-at="2021-03-07T12:44:52 EST">
+      <class name="grpQAclickAcademy.MavenJava.ClsSelenium">
+        <test-method status="PASS" signature="fxSeleniumWeb1()[pri:0, instance:grpQAclickAcademy.MavenJava.ClsSelenium@1d29cf23]" name="fxSeleniumWeb1" duration-ms="11" started-at="2021-03-07T12:44:52 EST" finished-at="2021-03-07T12:44:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fxSeleniumWeb1 -->
+        <test-method status="PASS" signature="fxSeleniumWeb2()[pri:0, instance:grpQAclickAcademy.MavenJava.ClsSelenium@1d29cf23]" name="fxSeleniumWeb2" duration-ms="2" started-at="2021-03-07T12:44:52 EST" finished-at="2021-03-07T12:44:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fxSeleniumWeb2 -->
+      </class> <!-- grpQAclickAcademy.MavenJava.ClsSelenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
