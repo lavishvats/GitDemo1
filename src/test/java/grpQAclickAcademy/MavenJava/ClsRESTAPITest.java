@@ -8,6 +8,8 @@ public class ClsRESTAPITest {
 	public void fxRESTAPI_1()
 	{
 		System.out.println("fxRESTAPI_1");
+		System.out.println("Git Hub Check1");
+		System.out.println("Git Hub Check4");
 	}
 	
 	@Test
